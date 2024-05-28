@@ -1,4 +1,4 @@
-//RentersSection.js
+//RentersSection.js,
 
 import React, { useState } from 'react';
 import RentersForm from './RentersForm';
